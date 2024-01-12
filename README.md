@@ -1,5 +1,8 @@
 # Streaming Algorithms
 
+## Dataset
+A large list of user_ids in a txt file (not included because the file is too big for Github)
+
 ## Task 1: Bloom Filtering 
 
 I will implement the Bloom Filtering algorithm to estimate whether the user_id in the data stream has shown before. I will find proper hash functions and the number of hash functions in the Bloom Filtering algorithm.
