@@ -1,7 +1,7 @@
 # Streaming Algorithms
 
 ## Dataset
-A large list of user_ids in a txt file (not included because the file is too big for Github)
+A large list of user_ids in a txt file (not included because the file is too big for Github). Blackbox.py will be a simulation of a data stream.
 
 ## Task 1: Bloom Filtering 
 
