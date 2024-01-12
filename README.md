@@ -46,3 +46,6 @@ The goal of this task is to implement the fixed size sampling method (Reservoir 
 
 ### Output Results
 - Print the current stage of your reservoir into a CSV file every time you receive 100 users
+
+## Final Results
+- **Grade**: 100%
